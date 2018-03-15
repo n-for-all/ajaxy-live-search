@@ -1,11 +1,11 @@
 === Plugin Name ===
 Contributors: n-for-all
 Donate link: http://ajaxy.org/
-Version: 3.0.9
+Version: 3.1.0
 Tags: facebook, live search, ajax search, category search, predictive search
 Requires at least: 4.0.0
-Tested up to: 4.5.3
-Stable tag: 3.0.9
+Tested up to: 4.9.4
+Stable tag: 3.1.0
 
 A facebook like ajaxy live search for wordpress, this plugin uses the same functionality as facebook to retrieve the results from your blog.
 
@@ -18,7 +18,6 @@ A facebook like ajaxy live search for wordpress, this plugin uses the same funct
 * this plugin can search categories, post tags, post types, taxonomies and supports woocommerce products search and more to go.
 
 * This plugin was a scratch when i created it, Now it is competing with the best wordpress live search plugins out there, it is now supporting all customisation offered by the best live search plugins for wordpress.
-
 
 == Installation ==
 
@@ -40,6 +39,8 @@ i have seen a lot of blogs that are having this issue, the problem relies when y
 2. screenshot-1.jpg
 
 == Changelog ==
+= 3.1.0 =
+	minor fixes and upgrades
 = 3.0.8 =
 	minor fixes and upgrades
 = 3.0.8 =
